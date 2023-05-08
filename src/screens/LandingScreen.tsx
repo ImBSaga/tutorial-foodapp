@@ -1,11 +1,7 @@
 import React from "react";
 import { View, StyleSheet } from "react-native";
 
-import {
-  LandingHeader,
-  LandingBody,
-  LandingFooter,
-} from "../components/export";
+import { LandingHeader, LandingBody, LandingFooter } from "../components";
 
 export const LandingScreen = () => {
   return (
